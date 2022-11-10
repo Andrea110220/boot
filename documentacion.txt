@@ -1,0 +1,16 @@
+Yurley Andrea Rodriguez Fajardo
+
+Documentación de bot:
+
+descargue chromedriver.
+
+Lo primero que hice fue crear una carpeta, y abrirla en python.
+
+Luego hice el codigo.
+
+Busque la pagina de dolar para hacerle la prueba.
+ 
+copie los links y los pegue al codigo.
+
+El bot lo que hace es ver a como esta el Dólar estadounidense a Peso colombiano
+
